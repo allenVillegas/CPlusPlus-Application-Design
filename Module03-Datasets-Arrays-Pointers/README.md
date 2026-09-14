@@ -2,7 +2,7 @@ Name: Allen Villegas
 
 Course: CIS 25 - Programming Using C++
 
-Application: Personalized menu using data types and variables
+Application: Personalized application using data types and variables
 
 Completed: Module 3
 
