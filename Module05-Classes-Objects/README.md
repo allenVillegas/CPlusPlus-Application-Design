@@ -11,5 +11,7 @@ How to use:
 2) Open Bash or Powershell terminal and make sure directory is in the same file location
 3) Compile with: g++ main.cpp dataFunction.cpp -o program
 4) Run with
+
    Powershell: .\program.exe
+   
    Bash: ./program
